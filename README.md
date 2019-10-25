@@ -4,17 +4,14 @@
 
 ## About Me Quiz
 
-Lab01-Exception-Handling
-
-*Author: Harry Potter*
+Lab08-JSON parsing through Manhattan!
+Author: Enrique Rivera
 
 ----
 
 ## Description
-***[Tell me about your application, should be about a paragraph]***
-This is a C# console application that will ask a user several questions about me, the
-developer. There are multiple question types ranging from inputting a number to True or False.
-At the end of the game the user receives their total score.
+This application allows the user to see the contents of a json.file by parsing the contents into C# objects
+and then using that information to display data to the console.
 
 ---
 
@@ -38,7 +35,5 @@ $ git clone https://github.com/Alejandroid101/Lab-08-LINQ.git
 ---
 
 ### Change Log
-***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***  
-
 1.1: Scaffolded the application by making the necessary classes.
 
