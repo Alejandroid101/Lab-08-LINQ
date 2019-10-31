@@ -11,7 +11,7 @@ Author: Enrique Rivera
 
 ## Description
 This application allows the user to see the contents of a json.file by parsing the contents into C# objects
-and then using that information to display data to the console.
+and then using that information to display data to the console. it filters the data in different ways to show non-repetitive data.
 
 ---
 
@@ -36,4 +36,5 @@ $ git clone https://github.com/Alejandroid101/Lab-08-LINQ.git
 
 ### Change Log
 1.1: Scaffolded the application by making the necessary classes.
+1.2 came back to it to add more logic, finished it!
 
